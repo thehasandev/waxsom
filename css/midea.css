@@ -1,0 +1,473 @@
+/* Extra large devices  */
+@media (min-width: 1200px) {
+ /* Device Text */
+ .device_text h3 {
+	font-size: 26px;
+}
+	.device_text p {
+		font-size: 13px;
+		line-height: 21px;
+	}
+	.licon_menu ul li a {
+		font-size: 9px;
+	}
+	.footer_text_one{
+		margin-left: -150px;
+ }
+	/* =============================== Device Text ================================= */
+}
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+		/* Purces */
+		.btnn span {
+			font-size: 9px;
+		}
+		.purces_text h2 {
+			font-size: 22px;
+		}
+		/* =============================== Pursec End================================= */
+
+		/* licon_menu  */
+		.licon_menu ul li a {
+			font-size: 8px;
+		}
+		/* =============================== licon_menu ================================= */
+		/* Device Text */
+		.device_text h3 {
+			font-size: 22;
+			font-size: 22px;
+			padding-bottom: 41px;
+		}
+		.device_text p {
+			font-size: 13px;
+			line-height: 21px;
+		}
+		/* =============================== Device Text ================================= */
+
+		/* Footer Part Start */
+		.footer_text_one{
+       margin-left: -150px;
+		}
+
+	.addres_header h3 {
+		text-align: center;
+	}
+	.footer_text_one_a{
+		font-size: 14px;
+	}
+	.footer_text_one p {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.img_part_a img{
+		margin-left: -32px;
+	}
+	.img_part_b img{
+		margin-left: -16px;
+	}
+		/* =============================== Footer Part End ================================= */
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	/* Navber Start */
+	.navbar-toggler i {
+		color: #fff;
+		font-size: 30px;
+	}
+	.navbar-toggler {
+		border: none;
+	}
+	.navbar-toggler:focus {
+	box-shadow: none;
+	}
+	#navbarSupportedContent {
+		position: absolute;
+		right: 81px;
+		top: 67px;
+		background: #4e3427;
+		width: 180px;
+		border-radius: 20px;
+		text-align: center;
+	}
+		/* ===============================Navber End ================================= */
+		
+		/* Demo */
+		.demo_item {
+			width: 506px;
+			margin-left: 84px;
+		}
+		.demo_item_extra {
+			width: 506px;
+			margin-bottom: 30px;
+			margin-left: 81px;
+		}
+			/* ===============================Demo End================================= */
+		/* Purces */
+	#purces {
+		padding-top: 43px;
+	}
+	.purces_text h2 {
+		font-size:19px;	
+	}
+
+	.purces_text p {
+		font-size: 13px;
+		
+	}
+	.btnn {
+		padding: 17px 23px;
+		top: -60px;
+		left: 573px;
+	}
+	/* =============================== Pursec End================================= */
+/* Demo btn Start  */
+	.demoo_btn {
+		margin-left: -299px;
+		margin-top: 48px;
+	}
+		/* =============================== Demo btn End================================= */
+		
+		/* Demo btn Start  */
+		.counter_one{
+			margin-bottom:30px;
+		}
+		/* =============================== Demo btn End================================= */
+
+			/*Slider Start  */
+			#slider {
+				padding-bottom: 25px;
+			}
+			.slide_text h3 {
+				font-size: 12px;
+
+			}
+			.slide_text p {
+				font-size: 10px;
+	      line-height: 17px;
+			  width: auto;
+			}
+			
+		/* =============================== Slider End================================= */
+
+			/* Arrow btn Start  */
+			.arrwo {
+				margin-left: 304px;
+			}
+		/* =============================== Arrow End================================= */
+
+		/* Sticker Start  */
+.sticker_a {
+	margin-left: 100px;
+}
+.sticker_b {
+	margin-left: 150px;
+}
+.sticker_c {
+	margin-left: 200px;
+}
+.sticker_d {
+	margin-left:250px;
+}
+		/* =============================== Sticker  End================================= */
+		/* Video  Start  */
+		.video_oberly {
+			width: 100%;
+		}
+	/* Footer part start  */
+	
+	.addres_header h3 {
+		text-align: center;
+	}
+	
+	.footer_text_one p {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.img_part_a{
+		margin-left:200px;
+		margin-bottom: 10px;
+	}
+	.img_part_b{
+		margin-left:200px;
+	}
+	
+		/* =============================== Footer================================= */
+}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* Navber Start */
+	.navbar-toggler i {
+		color: #fff;
+		font-size: 30px;
+	}
+	.navbar-toggler {
+		border: none;
+	}
+	.navbar-toggler:focus {
+	box-shadow: none;
+	}
+	#navbarSupportedContent {
+    position: absolute;
+    right: 11px;
+    top: 67px;
+    background: #4e3427;
+    width: 121px;
+    border-radius: 20px;
+    text-align: center;
+  }
+	/* ===============================Navber Start ================================= */
+/* Purces */
+	#purces {
+		padding-top: 43px;
+	}
+	.purces_text h2 {
+		font-size: 16px;	
+	}
+
+	.purces_text p {
+		font-size: 11px;
+		
+	}
+	.btnn {
+		padding: 17px 23px;
+		top: -57px;
+		left: 387px;
+	}
+	/* =============================== Pursec End================================= */
+/* Demo btn Start  */
+	.demoo_btn {
+		margin-left: -215px;
+		margin-top: 48px;
+	}
+		/* =============================== Demo btn End================================= */
+		
+		/* Demo btn Start  */
+		.counter_one{
+			margin-bottom:30px;
+		}
+		/* =============================== Demo btn End================================= */
+
+			/*Slider Start  */
+			#slider {
+				padding-bottom: 25px;
+			}
+			.slide_text h3 {
+				font-size: 12px;
+
+			}
+			.slide_text p {
+				font-size: 10px;
+	      line-height: 17px;
+			  width: auto;
+			}
+			
+		/* =============================== Slider End================================= */
+
+			/* Arrow btn Start  */
+			.arrwo {
+				margin-left:236px;
+			}
+		/* =============================== Arrow End================================= */
+
+		/* Sticker Start  */
+.sticker_a {
+	margin-left: 100px;
+}
+.sticker_b {
+	margin-left: 150px;
+}
+.sticker_c {
+	margin-left: 200px;
+}
+.sticker_d {
+	margin-left:250px;
+}
+		/* =============================== Sticker  End================================= */
+		/* Video  Start  */
+		.video_oberly {
+			width: 100%;
+		}
+	/* Footer part start  */
+	.addres_header h3 {
+		text-align: center;
+	}
+	
+	.footer_text_one p {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.img_part_a{
+		margin-left: 120px;
+		margin-bottom: 10px;
+	}
+	.img_part_b{
+		margin-left: 120px;
+	}
+	
+		/* =============================== Footer================================= */
+}
+
+
+/* Extra small devices  */
+@media (min-width: 320px) and (max-width: 575.98px) {
+  /* Header Part Start  */
+
+/* Header part icon Start */
+.navbar-toggler i {
+  color: #fff;
+  font-size: 30px;
+}
+/* Header part icon End */
+
+  /* Hadder part drop Down Start */
+  #navbarSupportedContent {
+    position: absolute;
+    right: 11px;
+    top: 67px;
+    background: #4e3427;
+    width: 121px;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+	.navbar-toggler {
+		border: none;
+	}
+	.navbar-toggler:focus {
+	box-shadow: none;
+	}
+  /* Hadder part drop Down End */
+
+  /* Banner part Start  */
+  .banner_contant h2 {
+    font-size: 21px;
+    font-weight: 500;
+  }
+  .banner_contant h1 {
+    font-size: 41px;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+    color: #ffff;
+    padding-top: 22px;
+    padding-bottom: 27px;
+  }
+  .banner_contant p {
+    font-size: 11px;
+  }
+
+  /* Banner part End */
+  /* Common text */
+.common_text h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size:17px;
+}
+.common_text p {
+	line-height: 14px;
+	font-size:8px;
+}
+/* Common text end */
+.purces_text h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	color: #fff;
+}
+.purces_text p {
+	padding-top: 5px;
+	line-height: 28px;
+	font-size: 11px;
+	font-weight: 300;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+.btnn {
+	padding: 19px 18px;
+	margin-left: 73px;
+}
+
+.demoo_btn a {
+	margin-left: 51px;
+}
+/* Video Part  */
+.video_oberly {
+width:100%;
+}
+
+.device_text h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	font-size: 22;
+	color: #555555;
+	font-size: 18px;
+	padding-bottom: 17px;
+	padding-top: 16px;
+	text-align: center;
+}
+.demoo_btn{
+  margin-left: 20px;
+}
+/* counter  */
+.counter_one{
+  margin-bottom:30px;
+}
+/* slide_text */
+.slide_text h3 {
+
+	font-size: 7px;
+	padding-top: 14px;
+	padding-bottom: 22px;
+}
+.slide_text p {
+	/* width: 425px; */
+	font-size: 4px;
+	line-height: 9px;
+	
+}
+.slide_ancor a {
+	font-size: 9px;	
+}
+
+.arrwo {
+	margin-left: 122px;
+}
+/* sticker_a */
+
+/* Footer Part  */
+.footer_text_one p {
+	font-size: 9px;
+	line-height: 24px;
+}
+.addres_header h3 {
+	text-align: center;
+}
+.img_part_a{
+
+	margin-bottom: 10px;
+}
+
+.img_part_a{
+	margin-left:10px;
+	margin-bottom: 10px;
+}
+.img_part_b{
+	margin-left:10px;
+}
+.sticker_a {
+	margin-left: 50px;
+}
+/* ============================================================================ media end ======================================================*/
+.licon_menu ul li a {
+	font-size: 8px;
+	color: #252525;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+#footer {
+	
+	padding-bottom: 84px;
+}
+}
